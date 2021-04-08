@@ -11,4 +11,4 @@
 ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-GLP-informational?style=flat&logo=lgp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GLP-informational?style=flat&logo=lgp&logoColor=white&color=2bbc8a)
